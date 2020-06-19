@@ -1,0 +1,4 @@
+C:\Users\Michael The Conjurer\documents\visual studio 2017\Projects\SeleniumLearner\SeleniumLearner\obj\Debug\netcoreapp2.1\SeleniumLearner.csprojAssemblyReference.cache
+C:\Users\Michael The Conjurer\documents\visual studio 2017\Projects\SeleniumLearner\SeleniumLearner\obj\Debug\netcoreapp2.1\SeleniumLearner.csproj.CoreCompileInputs.cache
+C:\Users\Michael The Conjurer\documents\visual studio 2017\Projects\SeleniumLearner\SeleniumLearner\obj\Debug\netcoreapp2.1\SeleniumLearner.AssemblyInfoInputs.cache
+C:\Users\Michael The Conjurer\documents\visual studio 2017\Projects\SeleniumLearner\SeleniumLearner\obj\Debug\netcoreapp2.1\SeleniumLearner.AssemblyInfo.cs
